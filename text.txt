@@ -1,9 +1,4 @@
 this is my first text file
 this is change
  next change
-sdsd
-sd
-
-sd
-
-sdsdsdsddddddddddddddd
+original change
